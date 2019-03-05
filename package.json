@@ -1,0 +1,15 @@
+{
+  "name": "fxa-bump-version",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Tomlinson <stomlinson@mozilla.com> (https://shanetomlinson.com)",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "@octokit/rest": "^15.9.4",
+    "commander": "^2.16.0"
+  }
+}
